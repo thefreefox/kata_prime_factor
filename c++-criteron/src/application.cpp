@@ -1,7 +1,7 @@
 #include "application.hpp"
 
 
-int PrimeHandler::factorize(int value)
+vector<int> PrimeHandler::factorize(int value)
 {
-  return 0;
+  return {};
 }
